@@ -1,4 +1,4 @@
-provider "aws" {
+provider "registry.terraform.io/hashicorp/aws" {
   profile = "myaws"
   region  = "ap-south-1"
 }
